@@ -11,14 +11,14 @@
     "icon": "fa-comments"
   },
   {
+    "text": "Courses",
+    "url": "/courses",
+    "icon": "fa-university"
+  },
+  {
     "text": "Projects",
     "url": "/projects",
     "icon": "fa-desktop"
-  },
-  {
-      "text": "Projects",
-      "url": "/projects",
-      "icon": "fa-desktop"
   },
   {
     "text": "Resume",
