@@ -21,6 +21,4 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist, jekyll-multiple-languages-plugin]
-
-languages: ["pt", "en"]
+gems: [jekyll-paginate, jekyll-gist]
