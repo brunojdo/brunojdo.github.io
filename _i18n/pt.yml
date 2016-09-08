@@ -1,13 +1,5 @@
 global:
   tagline: Português
-  about: Sobre
-  twitter: Twitter
-  github: GitHub
 langs:
   en: English
   pt: Português
-pages:
-  example: exemplo
-  includeexample: O texto a seguir é incluido pelo parametro de tag Jekyll
-titles:
-  pagination: Paginação
