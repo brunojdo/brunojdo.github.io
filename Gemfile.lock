@@ -17,8 +17,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-gist (1.4.0)
       octokit (~> 4.2)
-    jekyll-multiple-languages-plugin (1.5.1)
-      jekyll (>= 2.0, < 4.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
@@ -49,7 +47,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-gist
-  jekyll-multiple-languages-plugin
   jekyll-paginate
   jekyll-watch
   kramdown
