@@ -1,11 +1,11 @@
 title: Bruno Dias
 description: My Personal Blog
 author: Bruno Dias
-logo: http://s.gravatar.com/avatar/e93480bce84892a336f371360e14a31d?s=80
+logo: https://s.gravatar.com/avatar/e93480bce84892a336f371360e14a31d?s=80
 about: Teacher & Project Manager
 
 baseurl: ""
-url: "http://brunojdo.github.io"
+url: "https://brunojdo.github.io"
 
 disqus_shortname: diasbruno
 google_analytics:
