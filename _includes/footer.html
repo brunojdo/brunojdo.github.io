@@ -1,23 +1,4 @@
 <footer>
-  <div align="left" >
-    <!-- Adds links to other languages on the post -->
-    {% for lang in site.languages %}
-      {% unless site.lang == lang %}
-        {% if lang == site.default_lang %}
-          <a href="{{ site.baseurl }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
-        {% else %}
-          <a href="{{ site.baseurl }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a>
-        {% endif %}
-
-        {% assign next = forloop.index | plus: 1 %}
-
-        {% if forloop.last != true and site.languages[forloop.index] != site.lang or site.languages[forloop.index] == site.lang and next < forloop.length %}
-          <span class="separator"> &bull; </span>
-        {% endif %}
-
-      {% endunless %}
-    {% endfor %}
-  </div>
   © 2016 {{ site.author }} - Powered by Jekyll.
 </footer>
 <div align="center">
