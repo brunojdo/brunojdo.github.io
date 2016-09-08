@@ -5,6 +5,8 @@ group :jekyll_plugins do
   gem 'jekyll-paginate'
   gem 'jekyll-gist'
   gem 'jekyll-watch'
+  gem 'github-pages'
+  gem 'html-proofer'
   # gem 'jekyll-multiple-languages-plugin'
   gem 'kramdown'
   gem 'rouge'
