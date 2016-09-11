@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ref: about
-lang: en
+lang: pt
 ---
 
 Bem vindo! Meu nome é Bruno Dias e sou professor do curso de bacharelado em [Sistemas de Informação](http://www.cesed.br/portal/?page_id=21423) pela [Unifacisa](http://www.cesed.br/portal/). Além disso, também exerço a função de Gerente de Projetos no desenvolvimento do Sistema de Gestão da Atividade de Polícia Judiciária - ePol, que é uma parceria entre a [Polícia Federal](http://www.pf.gov.br/) e o [Laboratório de Práticas de Software - SPLab/UFCG](http://splab.computacao.ufcg.edu.br/).

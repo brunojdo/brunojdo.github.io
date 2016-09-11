@@ -7,7 +7,7 @@
             </div>
             <div class="row-details">
               <h4 class="list-group-item-heading">{{ site.author }}</h4>
-              <p class="list-group-item-text">{{ site.about }}</p>
+              <p class="list-group-item-text">{{ site.about[page.lang] }}</p>
               {% include social_links.html %}
             </div>
             <div class="navbar-header pull-right">
@@ -31,6 +31,16 @@
                   {% endfor %}
                 </span>
               {% endif %}
+            </p>
+            <p class="info" style="text-align: right; line-height: 2em">
+              {% assign posts = site.posts | where:"ref", page.ref | sort: 'lang' %}
+              {% for post in posts %}
+                <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a>
+              {% endfor %}
+              {% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
+              {% for page in pages %}
+                <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
+              {% endfor %}
             </p>
           </div>
         </div>
