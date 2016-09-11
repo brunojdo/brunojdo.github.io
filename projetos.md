@@ -6,4 +6,4 @@ ref: projects
 lang: pt
 ---
 
-Few of my projects.
+Alguns projetos que colaboro.
