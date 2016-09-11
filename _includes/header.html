@@ -1,48 +1,48 @@
 <div class="header-panel shadow-z-2">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-3 col-sm-4 col-xs-12">
-            <div class="row-picture">
-              <img id="about" class="logo-img" src="{{ site.logo }}" height="75px" width="75px">
-            </div>
-            <div class="row-details">
-              <h4 class="list-group-item-heading">{{ site.author }}</h4>
-              <p class="list-group-item-text">{{ site.about[page.lang] }}</p>
-              {% include social_links.html %}
-            </div>
-            <div class="navbar-header pull-right">
-              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                <span class="sr-only">Toggle navigation</span>
-                <i class="fa fa-2x fa-bars"></i>
-              </button>
-            </div>
-          </div>
-          <div class="col-md-9 col-sm-8 col-xs-12">
-            <h2 class="blog-title-pro">{{ page.title }}</h2>
-            <p class="info">
-              {% if page.date %}
-                <span class="time">{{ page.date | date_to_string }}</span>
-              {% endif %}
-              {% if page.categories.size > 0 %}
-                <span class="categories">
-                  {% for category in page.categories %}
-                    <a href="{{ site.baseurl }}/category/{{ category }}">{{ category }}</a>
-                    {% if forloop.last == false %}, {% endif %}
-                  {% endfor %}
-                </span>
-              {% endif %}
-            </p>
-            <p class="info" style="text-align: right; line-height: 2em">
-              {% assign posts = site.posts | where:"ref", page.ref | sort: 'lang' %}
-              {% for post in posts %}
-                <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a>
-              {% endfor %}
-              {% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
-              {% for page in pages %}
-                <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
-              {% endfor %}
-            </p>
-          </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-4 col-xs-12">
+        <div class="row-picture">
+          <img id="about" class="logo-img" src="{{ site.logo }}" height="75px" width="75px">
+        </div>
+        <div class="row-details">
+          <h4 class="list-group-item-heading">{{ site.author }}</h4>
+          <p class="list-group-item-text">{{ site.about[page.lang] }}</p>
+          {% include social_links.html %}
+        </div>
+        <div class="navbar-header pull-right">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <i class="fa fa-2x fa-bars"></i>
+          </button>
         </div>
       </div>
+      <div class="col-md-9 col-sm-8 col-xs-12">
+        <h2 class="blog-title-pro">{{ page.title }}</h2>
+        <p class="info">
+          {% if page.date %}
+            <span class="time">{{ page.date | date_to_string }}</span>
+          {% endif %}
+          {% if page.categories.size > 0 %}
+            <span class="categories">
+              {% for category in page.categories %}
+                <a href="{{ site.baseurl }}/category/{{ category }}">{{ category }}</a>
+                {% if forloop.last == false %}, {% endif %}
+              {% endfor %}
+            </span>
+          {% endif %}
+        </p>
+        <p class="info" style="text-align: right; line-height: 2em">
+          {% assign posts = site.posts | where:"ref", page.ref | sort: 'lang' %}
+          {% for post in posts %}
+            <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a>
+          {% endfor %}
+          {% assign pages = site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% for page in pages %}
+            <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
+          {% endfor %}
+        </p>
+      </div>
     </div>
+  </div>
+</div>
