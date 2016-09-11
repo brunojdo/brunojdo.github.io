@@ -1,9 +1,15 @@
 title: Bruno Dias
-description: My Personal Blog
+description:
+  en: My Personal Blog
+  pt: Meu Blog
 author: Bruno Dias
 logo: https://s.gravatar.com/avatar/e93480bce84892a336f371360e14a31d?s=80
-about: Teacher & Project Manager
-
+about:
+  en: Teacher & Project Manager
+  pt: Professor e Gerente de Projetos
+index:
+  en:
+  pt: indice.html
 baseurl: ""
 url: "https://brunojdo.github.io"
 

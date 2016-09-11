@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Projects
-permalink: /projects/
+title: Projetos
+permalink: /projetos/
 ref: projects
-lang: en
+lang: pt
 ---
 
 Few of my projects.
