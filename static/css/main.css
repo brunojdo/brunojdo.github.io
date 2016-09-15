@@ -1,10 +1,22 @@
 .main.outer{padding-top: 50px;}
+/* -begin- Header */
 .header-panel.shadow-z-2 {
-    background-color: #009587;
+    /*background-color: #009587;*/
+    background-color: #607D8B;
     padding: 50px 0 15px 0;
     width: 100%;
 }
-.full{ font-size: 16px; }
+.full{
+  font-size: 16px;
+}
+.full ul,.full ol {
+    margin-left: 15px;
+}
+.full img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
 .logo-img {
     width: 56px;
     height: 56px;
@@ -31,21 +43,6 @@
     vertical-align: middle;
     color: #fff;
 }
-p.info {
-    color: #fff;
-}
-p.info a {
-    color: #fff;
-    text-decoration: underline;
-}
-.full ul,.full ol {
-    margin-left: 15px;
-}
-.full img{
-    display: block;
-    max-width: 100%;
-    height: auto;
-}
 .social-icons {
     margin: 20px 0 0;
 }
@@ -55,7 +52,7 @@ p.info a {
     text-align: center;
     line-height: 20px;
     font-size: 20px;
-    color: #009688;
+    color: #607D8B;
     padding: 5px;
     width: 30px;
     height: 30px;
@@ -63,25 +60,22 @@ p.info a {
 }
 .icon:hover {
     color: rgba(255, 255, 255, 0.63);
-    background: #009688;
+    background: #607D8B;
+}
+/* -end- Header */
+/* -Begin- sidebar Menu */
+body .container .well-primary, body .container-fluid .jumbotron-primary, body .container-fluid .well-primary {
+  background-color: #607D8B;
 }
 .menu ul li {
     list-style: none;
     margin: 5px 0;
 }
-
 .menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
-    background: #007D72;
+    background: #455A64;
 }
-li.current-menu-item:before {
-    content: "";
-    display: inline-block;
-    height: 55px;
-    width: 5px;
-    position: absolute;
-    left: 9px;
-    vertical-align: middle;
-    background: #B8CA28;
+.menu .list-group-item-heading, .menu .list-group-item-text{
+    color:#fff!important;
 }
 .menu ul li a {
     font-size: 15px;
@@ -92,23 +86,18 @@ li.current-menu-item:before {
     padding: 0 0 0 10px;
     color: #fff;
 }
-.home-subtitle {
-    font-size: 26px;
-    margin-bottom: 32px;
-    margin-top: 5px;
-    color: #01c87b;
-    font-weight: 300;
-}
-h2.blog-title-pro{color: #fff;}
-h2.blog-title-pro:after {
+li.current-menu-item:before {
     content: "";
-    display: block;
-    width: 70px;
-    height: 4px;
-    margin-top: 16px;
-    margin-left: 3px;
-    background: rgba(255, 255, 255, 0.72);
+    display: inline-block;
+    height: 55px;
+    width: 5px;
+    position: absolute;
+    left: 9px;
+    vertical-align: middle;
+    background: #4CAF50;
 }
+/* -end- sidebar Menu */
+
 span.tags{ margin: 0 2px;cursor: pointer;display: inline-block;}
 .card .card-image .card-image-headline-custom{
     position: absolute;
@@ -133,6 +122,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 #filters {
     margin: 0 0 25px 0;
 }
+h2.blog-title-pro{color: #fff;}
+h2.blog-title-pro:after {
+    content: "";
+    display: block;
+    width: 70px;
+    height: 4px;
+    margin-top: 16px;
+    margin-left: 3px;
+    background: rgba(255, 255, 255, 0.72);
+}
 .list-separator li > a i{
     width: 56px;
     height: 56px;
@@ -149,9 +148,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 }
 .navbar-toggle i {
     color: #BCCCBF;
-}
-.menu .list-group-item-heading, .menu .list-group-item-text{
-    color:#fff!important;
 }
 @media (max-width: 768px) {
     #portfolio-filter {
@@ -183,7 +179,9 @@ th {
   background-color: #B0BEC5;
 }
 
-tr:hover {background-color: #f5f5f5}
+tr:hover {
+  background-color: #f5f5f5
+}
 
 th, td {
     border-bottom: 1px solid #ddd;
@@ -192,6 +190,33 @@ th, td {
     text-align: left;
 }
 
+a, a:focus, a:hover {
+  color: #4CAF50
+}
+p.info {
+    color: #fff;
+}
+p.info a {
+    color: #fff;
+    text-decoration: underline;
+}
+.home-subtitle {
+    font-size: 26px;
+    margin-bottom: 32px;
+    margin-top: 5px;
+    color: #4CAF50;
+    font-weight: 300;
+}
 .en:lang(en), .pt:lang(pt){
     font-weight: bold;
+}
+
+.btn.btn-raised.btn-primary {
+  background: #455A64;
+}
+.btn.btn-raised:not(.btn-link):hover.btn-primary {
+  background-color: #607D8B;
+}
+.label.label-primary {
+  background-color: #607D8B;
 }
