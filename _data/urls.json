@@ -1,13 +1,13 @@
 [{
 	"en": {
 		"text": "Home",
-		"url": "/",
+		"url": "/index_en.html",
 		"icon": "fa-home",
 		"layout": "post"
 	},
   "pt": {
     "text": "Início",
-    "url": "/indice.html",
+    "url": "/",
     "icon": "fa-home",
     "layout": "post"
   }

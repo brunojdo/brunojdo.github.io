@@ -5,11 +5,11 @@ description:
 author: Bruno Dias
 logo: https://s.gravatar.com/avatar/e93480bce84892a336f371360e14a31d?s=80
 about:
-  en: Teacher & Project Manager
-  pt: Professor e Gerente de Projetos
+  en: Assistant Professor
+  pt: Professor Assistente
 index:
-  en:
-  pt: indice.html
+  en: index_en.html
+  pt:
 baseurl: ""
 url: "https://brunojdo.github.io"
 
