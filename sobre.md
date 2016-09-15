@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sobre
-subtitle: Sobre
 permalink: /sobre/
 ref: about
 lang: pt
