@@ -11,7 +11,8 @@
     "icon": "fa-home",
     "layout": "post"
   }
-}, {
+},
+{
 	"en": {
 		"text": "About",
 		"url": "/about/",
@@ -22,7 +23,8 @@
     "url": "/sobre/",
     "icon": "fa-comments"
   }
-}, {
+},
+{
 	"en": {
 		"text": "Courses",
 		"url": "/courses/",
@@ -32,8 +34,9 @@
     "text": "Cursos",
     "url": "/cursos/",
     "icon": "fa-university"
-  }
-}, {
+	}
+},
+{
 	"en": {
 		"text": "Projects",
 		"url": "/projects/",
@@ -44,7 +47,20 @@
     "url": "/projetos/",
     "icon": "fa-desktop"
   }
-}, {
+},
+{
+	"en": {
+		"text": "Talks",
+		"url": "/talks/",
+		"icon": "fa-comments"
+	},
+  "pt": {
+		"text": "Palestras",
+		"url": "/palestras/",
+		"icon": "fa-comments"
+	}
+},
+{
 	"en": {
 		"text": "Resume",
 		"url": "/resume/",
@@ -57,7 +73,8 @@
     "icon": "fa-graduation-cap",
     "layout": "post"
   }
-}, {
+},
+{
 	"en": {
 		"text": "XML Feed",
 		"url": "/feed.xml/",
