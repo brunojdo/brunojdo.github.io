@@ -111,3 +111,6 @@ ___
 GAMMA, Erich; HELM, Richard; JOHNSON, Ralph; VLISSIDES, John. Padrões de projeto: soluções reutilizáveis de software orientado a objetos. Porto Alegre: Bookman, 2008
 FOWLER, Martin Padrões de arquitetura de aplicações corporativas. Edition Porto Alegre: Bookman, 2008. 493 p. ISBN 978-85-363-0638-4
 BATES, Bert Use a Cabeça - Padrões de Projeto, 2st Ed. Alta Books, 2009
+
+
+https://docs.google.com/document/d/19DIwAaPozCGhy1wBC5Q5_UXMOspHFMrSrkbPynHGXNs/edit
