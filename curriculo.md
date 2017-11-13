@@ -18,7 +18,7 @@ Bruno Dias
 Formação Acadêmica
 ---------
 
-2016-2018 (expected)
+2016-2018 (expectativa)
 :   **MSc, Ciência da Computação**; Universidade Federal de Campina Grande (UFCG)
 
     Titulo: Degree of Stability: Medição do grau de estabilidade para serviços WEB.
