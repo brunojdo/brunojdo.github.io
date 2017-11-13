@@ -18,14 +18,13 @@ Bruno Dias
 Formação Acadêmica
 ---------
 
-2016-2018 (expectativa)
-:   **MSc, Ciência da Computação**; Universidade Federal de Campina Grande (UFCG)
+**MSc, Ciência da Computação**; Universidade Federal de Campina Grande (UFCG)
+###### 2016-2018 (expectativa)
 
-    Titulo: Degree of Stability: Medição do grau de estabilidade para serviços WEB.
+    Título: Degree of Stability: Medição do grau de estabilidade para serviços WEB.
 
-2007-2010
-:   **BSc, Ciência da Computação**; Universidade Federal da Paraíba (UFPB)
-
+**BSc, Ciência da Computação**; Universidade Federal da Paraíba (UFPB)
+###### 2007-2010
 
 Experiência Profissional
 ----------
@@ -34,7 +33,7 @@ Experiência Profissional
 
 ###### 2013 - presente
 
-Gerencia o projeto ePol, um sistema de gerenciamento de atividades policiais. É uma parceria entre a Universidade Federal de Campina Grande e a Polícia Federal. As principais atividades desempenhadas no projeto são: 
+Gerente do projeto ePol, um sistema de gerenciamento de atividades policiais. É uma parceria entre a Universidade Federal de Campina Grande e a Polícia Federal. As principais atividades desempenhadas no projeto são: 
 
 * Projetar toda a API do projeto utilizando o estilo arquitetural REST. 
 * Melhorar a performance e disponibilidade do sistema através da separaço de algumas funcionalidades em microsserviços.  
@@ -54,7 +53,7 @@ Leciona as disciplinas: Engenharia de Software, Design de Software, Projeto de S
 
 Lecionou as disciplinas: Engenharia de Software, Banco de Dados e Redes de Computadores.
 
-Technical Experience
+Experiência Técnica
 --------------------
 
 Linguagens: Python, Javascript, Java, Shell Script. 
@@ -69,8 +68,8 @@ Ferramentas e Tecnologias: Scrum, XP, Jenkins, Gitlab CI, Docker, SonarQube, Red
 Idiomas
 --------------------
 
-     * Português (Nativo)
-     * Inglês (Profissional)
+* Português (Nativo)
+* Inglês (Profissional)
      
 Publicações
 --------------------
