@@ -9,11 +9,11 @@ lang: pt
 Bruno Dias
 ============
  
-Tomás Soares de Sousa, 200
+###### Tomás Soares de Sousa, 200
 
-Campina Grande - PB, Brazil
+###### Campina Grande - PB, Brazil
 
-contato@diasbruno.com
+###### contato@diasbruno.com
 
 Formação Acadêmica
 ---------
