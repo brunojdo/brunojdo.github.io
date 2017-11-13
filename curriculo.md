@@ -24,7 +24,7 @@ Formação Acadêmica
     Titulo: Degree of Stability: Medição do grau de estabilidade para serviços WEB.
 
 2007-2010
-:   **BSc, Ciência da Computação**; Universidade Federal da Paraba (UFPB)
+:   **BSc, Ciência da Computação**; Universidade Federal da Paraíba (UFPB)
 
 
 Experiência Profissional
