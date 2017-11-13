@@ -65,7 +65,7 @@ Technologies and Tools: Scrum, XP, Jenkins, Gitlab CI, Docker, SonarQube, Redmin
 **[Slack-Gitlab-Notifier](https://github.com/brunojdo/slack-gitlab-notifier)**
 :   This project aims to integrate Gitlab with Slack teams through webhooks. To do so, we created a service in NodeJS that handle the hooks to Slack channels and also direct messages to slack users.
 
-Languagens
+Languages
 --------------------
 
 * Portuguese (Native)
