@@ -15,23 +15,14 @@ Bruno Dias
 
 ###### contato@diasbruno.com
 
-Formação Acadêmica
----------
-
-**MSc, Ciência da Computação**; Universidade Federal de Campina Grande (UFCG)
-###### 2016-2018 (expectativa)
-
-    Título: Degree of Stability: Medição do grau de estabilidade para serviços WEB.
-
-**BSc, Ciência da Computação**; Universidade Federal da Paraíba (UFPB)
-###### 2007-2010
-
 Experiência Profissional
 ----------
 
-**Gerente de Projetos - SPLab/UFCG:**
+**Gerente de Projetos - VTEX The True Cloud Commerce Platform:**
+###### 2018 - presente
 
-###### 2013 - presente
+**Gerente de Projetos - SPLab/UFCG:**
+###### 2013 - 2017
 
 Gerente do projeto ePol, um sistema de gerenciamento de atividades policiais. É uma parceria entre a Universidade Federal de Campina Grande e a Polícia Federal. As principais atividades desempenhadas no projeto são: 
 
@@ -42,16 +33,25 @@ Gerente do projeto ePol, um sistema de gerenciamento de atividades policiais. É
 * Encorajar o time a fazer apresentações sobre técnicas e tecnologias que esto sendo aplicadas no projeto para melhorar a compreensão arquitetural e de código. 
 
 **Professor Assistente - UNIFACISA**
-
 ###### 2012 - presente
 
 Leciona as disciplinas: Engenharia de Software, Design de Software, Projeto de Software e Usabilidade de Software no curso de Sistemas de Informação.
 
 **Professor Assistente - ASPER**
-
 ###### 2011 - 2013
 
 Lecionou as disciplinas: Engenharia de Software, Banco de Dados e Redes de Computadores.
+
+Formação Acadêmica
+---------
+
+**MSc, Ciência da Computação**; Universidade Federal de Campina Grande (UFCG)
+###### 2016-2018 (expectativa)
+
+    Título: Degree of Stability: Medição do grau de estabilidade para serviços WEB.
+
+**BSc, Ciência da Computação**; Universidade Federal da Paraíba (UFPB)
+###### 2007-2010
 
 Experiência Técnica
 --------------------
