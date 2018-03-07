@@ -15,23 +15,16 @@ Bruno Dias
 
 ###### contato@diasbruno.com
 
-Education
----------
-
-**MSc, Computer Science**; Federal University of Campina Grande (UFCG)
-###### 2016-2018 (expected)
-
-    Title: Degree of Stability: Measure stability of web services.
-
-**BSc, Computer Science**; Federal University of Paraíba (UFPB)
-###### 2007-2010
-
 Employment
 ----------
 
+**Project Manager - VTEX The True Cloud Commerce Platform:**
+
+###### 2018 - present
+
 **Project Manager - SPLab/UFCG:**
 
-###### 2013 - present
+###### 2013 - 2017
 
 Manager of ePol - Management Activity System of the Brazilian Federal Police. It's a partnership between the Federal University of Campina Grande and Brazilian Federal Police. The major activities that I work is: 
 
@@ -53,6 +46,17 @@ Courses: Software Engineering, Software Usability, Software Design, Programming 
 ###### 2011 - 2013
 
 Courses: Software Engineering, Databases I, Networks & Internet to the Computer Science degree program.
+
+Education
+---------
+
+**MSc, Computer Science**; Federal University of Campina Grande (UFCG)
+###### 2016-2018 (expected)
+
+    Title: Degree of Stability: Measure stability of web services.
+
+**BSc, Computer Science**; Federal University of Paraíba (UFPB)
+###### 2007-2010
 
 Technical Experience
 --------------------
