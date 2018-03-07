@@ -19,11 +19,9 @@ Employment
 ----------
 
 **Project Manager - VTEX The True Cloud Commerce Platform:**
-
 ###### 2018 - present
 
 **Project Manager - SPLab/UFCG:**
-
 ###### 2013 - 2017
 
 Manager of ePol - Management Activity System of the Brazilian Federal Police. It's a partnership between the Federal University of Campina Grande and Brazilian Federal Police. The major activities that I work is: 
@@ -36,13 +34,11 @@ Manager of ePol - Management Activity System of the Brazilian Federal Police. It
 
 
 **Assistant Professor - UNIFACISA**
-
 ###### 2012 - present
 
 Courses: Software Engineering, Software Usability, Software Design, Programming I, Database Management to the Information Systems degree program.
 
 **Assistant Professor - ASPER**
-
 ###### 2011 - 2013
 
 Courses: Software Engineering, Databases I, Networks & Internet to the Computer Science degree program.
