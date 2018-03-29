@@ -11,4 +11,6 @@ lang: pt
 
 [Ambiente de desenvolvimento e testes com Docker](https://docs.google.com/presentation/d/1hlsksZh8ha_V7rBbPq5PP7GHivC47GYzDWGua7LN_dQ/preview)
 
+[ENECT - Docker em ambiente de desenvolvimento](https://docs.google.com/presentation/d/1tASrVn1zNWxgq0Gxjssj_e5Obk3B4z7tPBgS--fsbvY/preview)
+
 [Aulão - ENADE 2017](https://docs.google.com/presentation/d/1jTZuwFM8TJHUExoTXdCjDgO-K5baU7kugUuebYLGrs0/preview)
