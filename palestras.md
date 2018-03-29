@@ -6,11 +6,14 @@ ref: talks
 lang: pt
 ---
 
-
+# 2015 
 [Palestra sobre Desafios Arquiteturais](https://docs.google.com/presentation/d/1szWaCgxGIsi6Fsv6pVUtWgWBAfV69xAJZOSWnyqgGkY/preview)
 
+# 2016 
 [Ambiente de desenvolvimento e testes com Docker](https://docs.google.com/presentation/d/1hlsksZh8ha_V7rBbPq5PP7GHivC47GYzDWGua7LN_dQ/preview)
 
-[ENECT - Docker em ambiente de desenvolvimento](https://docs.google.com/presentation/d/1tASrVn1zNWxgq0Gxjssj_e5Obk3B4z7tPBgS--fsbvY/preview)
-
+# 2017
 [Aulão - ENADE 2017](https://docs.google.com/presentation/d/1jTZuwFM8TJHUExoTXdCjDgO-K5baU7kugUuebYLGrs0/preview)
+
+# 2018
+[ENECT - Docker em ambiente de desenvolvimento](https://docs.google.com/presentation/d/1tASrVn1zNWxgq0Gxjssj_e5Obk3B4z7tPBgS--fsbvY/preview)
