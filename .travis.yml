@@ -1,4 +1,11 @@
-language: ruby
-rvm:
-- 2.1
-script: "bundle exec jekyll build"
+language: node_js
+node_js:
+  - 'stable'
+cache:
+  directories:
+    - node_modules
+before_script:
+  - 'npm i -g gatsby'
+  - 'npm i'
+script:
+  - 'npm run deploy'
